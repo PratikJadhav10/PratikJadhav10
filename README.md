@@ -1,5 +1,8 @@
 ## Hi👋, I'm Pratik Jadhav
-**Software Developer from India**
+<p align="center">
+  <strong>Software Developer from India<strong>
+</p>
+
 
 - 🌱 I’m currently learning ReactJs
 - 💬 Ask me about React, Java, Springboot, Microservices
