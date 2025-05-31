@@ -1,6 +1,6 @@
 ## Hi👋, I'm Pratik Jadhav
 <p align="center">
-  <strong>SeniorSoftware Developer from India<strong>
+  <strong>Senior Software Developer from India<strong>
 </p>
 
 
