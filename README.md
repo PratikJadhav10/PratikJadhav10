@@ -1,6 +1,9 @@
 <h1 align="center"> Hi👋, I'm Pratik Jadhav</h1> 
 <h3 align="center"><strong>Senior Software Developer from India<strong></h3>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=PratikJadhav10&label=Profile%20views&color=0e75b6&style=flat" alt="PratikJadhav10" />
+</p>
 
 - 🌱 I’m currently learning ReactJs
 - 💬 Ask me about React, Java, Springboot, Microservices
