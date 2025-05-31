@@ -1,7 +1,5 @@
-## Hi👋, I'm Pratik Jadhav
-<p align="center">
-  <strong>Senior Software Developer from India<strong>
-</p>
+<h1 align="center"> Hi👋, I'm Pratik Jadhav</h1> 
+<h3 align="center"><strong>Senior Software Developer from India<strong></h3>
 
 
 - 🌱 I’m currently learning ReactJs
