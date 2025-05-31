@@ -1,4 +1,4 @@
-<h2><center> Hi👋, I'm Pratik Jadhav</center></h2>
+## Hi👋, I'm Pratik Jadhav
 <p align="center">
   <strong>Senior Software Developer from India<strong>
 </p>
